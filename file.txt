@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Different line from main
+=======
+line from branch1
+>>>>>>> branch1
